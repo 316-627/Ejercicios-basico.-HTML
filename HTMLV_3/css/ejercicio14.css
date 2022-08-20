@@ -1,0 +1,27 @@
+#H3{
+    font-family: fantasy;
+    color: rgba(40, 103, 197, 0.932);
+}
+#titulo1{
+    font-family: inherit;
+    color: rgb(4, 161, 154);
+}
+#titulo2{
+    font-family: inherit;
+    color: rgb(4, 161, 154);
+}
+#titulo3{
+    font-family: inherit;
+    color: rgb(4, 161, 154);
+}
+#titulo4{
+    font-family: inherit;
+    color: rgb(4, 161, 154);
+}
+#container{
+    width: 600px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: cornsilk;
+}

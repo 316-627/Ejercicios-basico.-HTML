@@ -1,0 +1,15 @@
+#H1{
+    font-family: serif;
+    color: rgb(124, 196, 66);
+}
+#texto{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(194, 119, 194);
+}
+#container{
+    width: 550px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: beige;
+}

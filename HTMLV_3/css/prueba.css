@@ -1,0 +1,25 @@
+#tit2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(35, 38, 194);
+}
+#tit1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(177, 30, 30);
+}
+#Parr1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(35, 38, 194);
+}
+.dis1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(216, 76, 216);
+}
+#container {
+    width: 800px;
+    height: 400px;
+    background-color: beige;
+    margin-left: auto;
+    margin-right: auto;
+}

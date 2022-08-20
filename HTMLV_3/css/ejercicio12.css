@@ -1,0 +1,97 @@
+#titulo1{
+    font-family: inherit;
+    color: rgb(4, 161, 154);
+}
+#titulo2{
+    font-family: inherit;
+    color: rgb(4, 161, 154);
+}
+#titulo3{
+    font-family: inherit;
+    color: rgb(4, 161, 154);
+}
+#titulo4{
+    font-family: inherit;
+    color: rgb(4, 161, 154);
+}
+#titulo5{
+    font-family: inherit;
+    color: rgb(4, 161, 154);
+}
+#titulo6{
+    font-family: inherit;
+    color: rgb(4, 161, 154);
+}
+#titulo7{
+    font-family: inherit;
+    color: rgb(4, 161, 154);
+}
+#titulo8{
+    font-family: inherit;
+    color: rgb(4, 161, 154);
+}
+#titulo9{
+    font-family: inherit;
+    color: rgb(4, 161, 154);
+}
+#titulo10{
+    font-family: inherit;
+    color: rgb(4, 161, 154);
+}
+#text1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+
+}
+#text2{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+
+}
+#text3{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+
+}
+#text4{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+
+}
+#text5{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+
+}
+#text6{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+
+}
+#text7{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+
+}
+#text8{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+
+}
+#text9{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+
+}
+#text10{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+
+}
+#container{
+    width: 850px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: cornsilk;
+}

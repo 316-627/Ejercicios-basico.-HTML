@@ -1,0 +1,27 @@
+#H1{
+    font-family: initial;
+    color: chocolate;
+}
+#texto{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darksalmon;
+}
+#H2{
+    font-family: serif;
+    color: chocolate;
+}
+#texto2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darksalmon;
+}
+#texto3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darksalmon;
+}
+#container{
+    width: 550px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: cornsilk;
+}

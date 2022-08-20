@@ -1,0 +1,15 @@
+#HTML{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(187, 98, 172);
+}
+#contexto{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(95, 100, 143);
+}
+#container{
+    width: 750px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(170, 212, 161);
+}

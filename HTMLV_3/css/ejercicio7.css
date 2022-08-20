@@ -1,0 +1,31 @@
+#H1{
+    font-family: monospace;
+    color: cornflowerblue;
+}
+#inicio{
+    font-family: cursive;
+    color: cadetblue;
+}
+#noticias{
+    font-family: cursive;
+    color: cadetblue;
+}
+#texto1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: lightblue;
+}
+#texto2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: lightblue;
+}
+#texto3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: lightblue;
+}
+#container{
+    width: 550px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blanchedalmond;
+}

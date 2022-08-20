@@ -1,0 +1,79 @@
+#H1{
+    font-family: monospace;
+    color: cornflowerblue;
+}
+#inicio{
+    font-family: cursive;
+    color: cadetblue;
+}
+#noticias{
+    font-family: cursive;
+    color: cadetblue;
+}
+#texto1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: lightblue;
+}
+#texto2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: lightblue;
+}
+#texto3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: lightblue;
+}
+#articulos{
+    font-family: cursive;
+    color: cadetblue;
+}
+#texto4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: lightblue;
+}
+#texto5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: lightblue;
+}
+#texto6{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: lightblue;
+}
+#texto7{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: lightblue;
+}
+#contacto{
+    font-family: cursive;
+    color: cadetblue;
+}
+#texto8{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: lightblue;
+}
+#texto9{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: lightblue;
+}
+#texto10{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: lightblue;
+}
+#texto11{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: lightblue;
+}
+#texto12{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: lightblue;
+}
+#texto13{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: lightblue;
+}
+#container{
+    width: 550px;
+    height: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: floralwhite;
+}
