@@ -1,0 +1,55 @@
+<!--
+    ENTIDAD: Centro de Biotegnologia Agropecuaria
+    FICHA: 2558346
+    PROGRAMO: Analisis y Desarrollo de Software 
+    AUTOR: Dana Ariza Marulanda.
+    OBJETIVO: Uso de las etiquetas HTML : h3, label, fieldset, br, from, option, imput, select
+    FECHA CREACION: 30 de Julio del 2022
+    VERSION: 2.0.0
+    FECHA MODIFICACION: 1/08/2022 Dana Ariza.
+-->
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <title>Ejercicio 15</title>
+  </head>
+  <body>
+    <div id="container">
+      <h3 id="H3">Informacion sobre el producto</h3>
+    <form action="/php/insertar_subasta.php" method="post" enctype="multipart/form-data">
+    <fieldset>
+      <legend id="titulo1">Datos basicos</legend>
+      <label id="titulo2" for="nombre">Nombre</label> <br/>
+      <input type="text" name="nombre" id="nombre" size="50" maxlength="250" />
+      <br/><br/>
+      <label id="titulo3" for="descripcion">descripcion</label><br/>
+      <textarea name="descripcion" id="descripcion" cols="40" rows="5"></textarea>
+      <br/><br/>
+      Foto<input id="titulo4" type="file" name="foto"/>
+      <br/><br/>
+      <input id="titulo5" name="contador" type="checkbox" value="si" /> Añadir contador de visitas
+    </fieldset>
+    <fieldset>
+      <legend id="titulo6">Datos economicos</legend>
+      <label id="titulo7" for="precio">Precio</label>
+      <input type="text" size="5" id="precio" name="precio" /> &euro;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <label id="titulo8" for="impuestos">Impuestos</label>
+      <select id="impuestos" name="impuestos" >
+        <option value="4">4%</option>
+        <option value="7">7%</option>
+        <option value="16">16%</option>
+        <option value="25">25%</option>
+      </select>
+
+      <br/><br/>
+      <label id="titulo9">Promocion</label><br/>
+      <input id="texto1" type="radio" name="promocion" value="ninguno" checked="checked"/>Ninguno<br/>
+      <input id="texto2" type="radio" name="promocion" value="portes"/>Transporte grtuito<br/>
+      <input id="texto3" type="radio" name="promocion" value="descuento"/>Descuentos 5%
+    </fieldset>
+    </form>
+      </div>
+  </body>
+</html>
