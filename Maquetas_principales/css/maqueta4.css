@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width: 1000px;
+    height: 1200px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header{
+    width: 1000px;
+    height: 200px;
+    background-color: chocolate;
+}
+
+#enca{
+    position: relative;
+    left: 400px;
+    top: 80px;
+    font-family: inherit;
+    font-size: 40px;
+    color: black;
+}
+
+#nav{
+    width: 1000px;
+    height: 100px;
+    background-color: coral;
+}
+
+#men{
+    position: relative;
+    left: 450px;
+    top: 40px;
+    font-family: inherit;
+    font-size: 40px;
+    color: black;
+}
+
+#aside{
+    float: left;
+    width: 200px;
+    height: 850px;
+    background-color: rgb(255, 160, 122);
+}
+
+#lat{
+    position: relative;
+    left: 50px;
+    top: 410px;
+    font-family: inherit;
+    font-size: 40px;
+    color: black;
+}
+
+#main{
+    float: left;
+    width: 600px;
+    height: 850px;
+    background-color: beige;
+}
+
+#cue{
+    position: relative;
+    left: 250px;
+    top: 410px;
+    font-family: inherit;
+    font-size: 40px;
+    color: black;
+}
+
+#option{
+    float: left;
+    width: 200px;
+    height: 850px;
+    background-color: rgba(228, 125, 125, 0.815);
+}
+
+#opci{
+    position: relative;
+    left: 50px;
+    top: 410px;
+    font-family: inherit;
+    font-size: 40px;
+    color: black;
+}
+
+#footer{
+    float: left;
+    width: 1000px;
+    height: 100px;
+    background-color: orangered;
+}
+
+#pie{
+    position: relative;
+    left: 450px;
+    top: 5px;
+    font-family: inherit;
+    font-size: 40px;
+    color: black;
+}
