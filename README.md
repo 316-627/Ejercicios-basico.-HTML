@@ -34,3 +34,19 @@ las cuales estan verificadas por el aplicativo (W3C)
 -[X] 👍 Se creo una respectiva carpeta para imagenes 
 -[X] 👍 Se genero un nuevo diseño para las paginas creadas.
 -[X] 👍 Lo anterior se encuentra en la carpeta llamada (HTMLV_3)
+
+### NOTAS MAQUETAS 4.0.0
+-[X] 👍 A todos los ejercicios se les creo una pagina de (CSS) y se les hizo su respectivo diseño
+-[X] 👍 Se organizo el encabezado, menu, cuerpo y pie.
+-[X] 👍 Validado por el aplicativo (W3C)
+-[X] 👍 Lo anterior se encuentra en la carpeta llamada (Maquetas_principales)
+
+### NOTAS MAQUETAS 5.0.0
+-[X] 👍 A los ejercicios encontrados en la carpeta llamada (HTMLV_3) se organizo y se le agrgo (CSS)
+-[X] 👍 Despues de organizarlos y agregarlos (CSS) se les agrgo encabezado, menu y pie
+-[X] 👍 En el encabezado se agrego el numero de la ficha
+-[X] 👍 En el menu se agrego el numero del ejercicio 
+-[X] 👍 En el cuerpo se agrego el contenido del body 
+-[X] 👍 En el pie se agrego el CopyRihgt y el logo de el aplicativo (W3C)
+-[X] 👍 Validado por el aplicativo (W3C)
+-[X] 👍 Lo anterior se enuentra en la carpeta llamda (Maquetas_HTML)
