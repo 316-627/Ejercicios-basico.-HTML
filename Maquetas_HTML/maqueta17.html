@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Maqueta 17</title>
+        <link rel="stylesheet" href="./css/maqueta17.css">
+    </head>
+    <body>
+        <div id="container"> 
+            <div id="header">
+                <h1 id="enca">Ficha:2558346</h1>
+            </div>
+            <div id="nav">
+                <h1 id="men">Ejercicio 13</h1>
+            </div>
+            <div id="main">
+                <p id="cue">
+                    <h3 id="H3">Rellena tu CV</h3>
+                    <form id="titulo1" action="/php/insertar_cv.php" method="post" enctype="multipart/form-data">
+                    Nombre <br/>
+                    <input id="titulo2" type="text" name="nombre" value="" size="20" maxlength="30"/>
+                    <br/>
+                    Apellidos <br/>
+                    <input id="titulo3" type="text" name="apellidos" value="" size="50" maxlength="80"/>
+                    <br/>
+                    Contraseña <br/>
+                    <input id="titulo4" type="password" name="contraseña" value="" maxlength="10"/>
+                    <br/>
+                    DNI <br/>
+                    <input id="titulo5" type="text" name="dni" value="" size="10" maxlength="9"/>
+                    <br/>
+                    sexo <br/>
+                    <input id="texto1" type="radio" name="sexo" value="hombre" checked="checked"/> Hombre <br/>
+                    <input id="texto2" type="radio" name="sexo" value="mujer" /> Mujer
+                    <br/><br/>
+                    Incluir mi foto<input id="texto3" type="file" name="foto" />
+        
+                    <br/><br/>
+                    <input id="titulo6" name="suscribir" type="checkbox" value="suscribir" checked="checked" /> Suscribirme al boletin de novedades
+                    <br/><br/>
+                    <input id="titulo7" type="submit" name="enviar" value="Guardar cambios" />
+                    <input id="titulo8" type="reset" name="limpiar" value="Borrar los datos introducidos" />
+                    </form>
+            </div>
+            <div id="footer">
+                    <p id="pie">Dana Ariza Copyrigth @ 2022 Todos los derechos reservados ADSO</p>
+                    <p><img src="../HTMLV_2/img/w3c.jpg" title="imagen del logo" width="50" height="50" /></p>
+            </div>
+    </body>
+</html>
